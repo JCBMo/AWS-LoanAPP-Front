@@ -1,2 +1,2 @@
-# AWS-LoanAPP---Front
+# AWS LoanAPP-Front
 Front end for the Loan Application
